@@ -14,4 +14,4 @@
 
 ## GitHub Stats
 
-![iMerciless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMerciless&show_icons=true&theme=radical)
+![iMerciless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMercilessly&show_icons=true&theme=radical)
